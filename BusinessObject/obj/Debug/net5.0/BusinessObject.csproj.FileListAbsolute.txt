@@ -1,0 +1,15 @@
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Statistical</h1>
+<form asp-action="ThongKe" method="get">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+    <div class="form-group">
+        <label class="control-label">Start-Date</label>
+        <input class="form-control" type="datetime-local" name="startDate" />
+        <span class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="control-label">End-Date</label>
+        <input class="form-control" type="datetime-local" name="endDate" />
+        <span class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+</form>
