@@ -167,3 +167,8 @@ D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Statistical\Index.cshtml.g.cs
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Statistical\ThongKe.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
