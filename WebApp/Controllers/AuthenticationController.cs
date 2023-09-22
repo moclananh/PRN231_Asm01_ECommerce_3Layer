@@ -11,6 +11,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.Reflection.Metadata;
 using BusinessObject.DTOs;
+using System.Linq;
 
 namespace WebApp.Controllers
 {
@@ -18,9 +19,10 @@ namespace WebApp.Controllers
     {
         private readonly HttpClient client = null;
         private string ProductApiUrl = "";
-
-        public AuthenticationController()
+        private readonly PRN221_OnPEContext _context;
+        public AuthenticationController(PRN221_OnPEContext context)
         {
+            _context = context;
             client = new HttpClient();
             var contentType = new MediaTypeWithQualityHeaderValue("application/json");
             client.DefaultRequestHeaders.Accept.Add(contentType);
@@ -48,12 +50,24 @@ namespace WebApp.Controllers
                 
                 var content = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");
                 HttpResponseMessage response = await client.PostAsync(ProductApiUrl+"/Login", content);
-
+                var user = _context.Members.SingleOrDefault(s => s.Email == request.Email && s.Password == request.Password);
                 if (response.IsSuccessStatusCode)
                 {
                     
-                    HttpContext.Session.SetString("email", request.Email);
-                    return RedirectToAction("Index", "Members");
+                    if (request.Email.Equals("admin@admin.com"))
+                    {
+                        HttpContext.Session.SetInt32("UserId", user.MemberId);
+                        HttpContext.Session.SetString("email", request.Email);
+                        return RedirectToAction("Index", "Members");
+                    }
+                    else
+                    {
+                        HttpContext.Session.SetInt32("UserId", user.MemberId);
+                        HttpContext.Session.SetString("email", request.Email);
+                        //authorization not yet
+                        return RedirectToAction("Index", "Members");
+                    }
+                   
                 }
                 else
                 {

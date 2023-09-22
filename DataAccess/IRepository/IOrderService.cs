@@ -17,6 +17,6 @@ namespace DataAccess.IRepository
 
         void UpdateOrder(Order o);
 
-        void AddOrder(Order o);
+        void AddOrder(Order order);
     }
 }

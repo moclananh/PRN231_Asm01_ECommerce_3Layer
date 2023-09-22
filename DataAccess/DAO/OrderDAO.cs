@@ -55,20 +55,19 @@ namespace DataAccess.DAO
             }
             return or;
         }
-        public void AddOrder(Order o)
+        public void AddOrder(Order order)
         {
             try
             {
-                Order _o = GetOrderByID(o.OrderId);
+                Order _o = GetOrderByID(order.OrderId);
                 if (_o == null)
                 {
                     using var context = new PRN221_OnPEContext();
-                    context.Orders.Add(o);
+                    context.Orders.Add(order);
                     context.SaveChanges();
                 }
                 else throw new Exception("Order is exist!");
             }
-
             catch (Exception ex)
             {
                 throw new Exception(ex.Message);

@@ -11,7 +11,7 @@ namespace DataAccess.Repository
 {
     public class OrderService : IOrderService
     {
-        public void AddOrder(Order o) => OrderDAO.Instance.AddOrder(o);
+        public void AddOrder(Order order) => OrderDAO.Instance.AddOrder(order);
 
 
         public void DeleteOrder(int idO) => OrderDAO.Instance.Delete(idO);
