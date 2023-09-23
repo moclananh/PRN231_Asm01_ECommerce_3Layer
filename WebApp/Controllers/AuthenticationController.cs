@@ -65,7 +65,7 @@ namespace WebApp.Controllers
                         HttpContext.Session.SetInt32("UserId", user.MemberId);
                         HttpContext.Session.SetString("email", request.Email);
                         //authorization not yet
-                        return RedirectToAction("Index", "Members");
+                        return RedirectToAction("Index", "User");
                     }
                    
                 }

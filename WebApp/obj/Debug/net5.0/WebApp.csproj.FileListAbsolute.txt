@@ -425,6 +425,13 @@ D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Products\Details.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Products\Index.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Shared\Error.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Shared\_UserLayout.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\_ViewImports.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\_ViewStart.cshtml.g.cs
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Authentication\Login.cshtml.g.cs
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Authentication\Register.cshtml.g.cs
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
@@ -465,3 +472,9 @@ D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\WebApp.pdb
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
 D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\UserHome\Index.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Orders\Create.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Orders\Delete.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Orders\Details.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Orders\Edit.cshtml.g.cs
+D:\FU_Hub\FA23\PRN231\Asm\Assignment01Solution_StudentCode\WebApp\obj\Debug\net5.0\Razor\Areas\User\Views\Orders\Index.cshtml.g.cs

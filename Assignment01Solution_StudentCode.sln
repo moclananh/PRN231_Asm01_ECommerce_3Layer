@@ -14,6 +14,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Logic", "2.Logic", "{78211BC4-0B80-4C28-A2DA-99BDF61339EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Client", "3.Client", "{3000CA33-C253-4CE8-94FD-70B86C4C2EA5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{FFDEB731-3929-42D5-A193-53A6F889F51C}"
 EndProject

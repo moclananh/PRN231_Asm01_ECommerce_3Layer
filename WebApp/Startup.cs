@@ -56,6 +56,13 @@ options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute(
+                  name: "areas",
+                  pattern: "{area:exists}/{controller=UserHome}/{action=Index}/{id?}"
+                );
+            });
 
             app.UseEndpoints(endpoints =>
             {
@@ -63,6 +70,8 @@ options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
+           
         }
     }
 }
